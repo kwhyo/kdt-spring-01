@@ -13,7 +13,8 @@ public class App
         System.out.println("와 됐당~");
 
         System.out.println( "워떤 기능을 추가" );
-        System.out.println( "그래 바꿔버령" );
+        String prob = "ㅋㅋㅋㅋ 에효";
+        System.out.println(prob.equals("ㅋㅋㅋㅋ"));
         System.out.println( "또 다른 특별한 기능을 추가" );
     }
 }
