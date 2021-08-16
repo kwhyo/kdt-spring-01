@@ -10,5 +10,6 @@ public class App
     {
         System.out.println( "Hello World!" );
         System.out.println( "깃 연결 완료!" );
+        System.out.println("와 됐당~");
     }
 }
